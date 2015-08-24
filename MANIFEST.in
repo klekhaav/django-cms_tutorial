@@ -1,0 +1,6 @@
+include LICENSE
+include README.rst
+recursive-include faq/template *
+recursive-include mysite/static *
+recursive-include mysite/templates *
+recursive-include polls_plugin/templates *

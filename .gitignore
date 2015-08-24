@@ -1,0 +1,8 @@
+# Created by .ignore support plugin (hsz.mobi)
+env
+project.db
+*.pyc
+faq/migrations
+polls_plugin/migrations
+media
+static
